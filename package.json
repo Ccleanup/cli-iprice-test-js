@@ -1,0 +1,19 @@
+{
+  "name": "cli-iprice-test",
+  "version": "1.0.0",
+  "description": "CLI to convert charaters to uppercase and lowercase and generates CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sc chia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ccleanup/cli-iprice-test-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ccleanup/cli-iprice-test-js/issues"
+  },
+  "homepage": "https://github.com/Ccleanup/cli-iprice-test-js#readme"
+}
